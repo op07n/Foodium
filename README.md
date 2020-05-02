@@ -1,4 +1,6 @@
-Duplicat of https://github.com/pranaypatel512/Foodium.git
+Duplicate of https://github.com/pranaypatel512/Foodium.git
+
+![CI](https://github.com/op07n/Foodium/workflows/CI/badge.svg?branch=master)
 
 
 ![](media/FoodiumHeader.png)
